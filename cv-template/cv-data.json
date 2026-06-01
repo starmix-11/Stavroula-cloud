@@ -1,0 +1,115 @@
+{
+  "outputPdf": "out/cv-template-output.pdf",
+  "photoPath": "",
+  "name": {
+    "first": "Your",
+    "last": "Name"
+  },
+  "subtitleLines": [
+    "Professional Title",
+    "Area of Expertise"
+  ],
+  "contact": [
+    {
+      "label": "+00 000 000 0000"
+    },
+    {
+      "label": "your.email@example.com"
+    },
+    {
+      "label": "City, Country"
+    },
+    {
+      "label": "LinkedIn or Portfolio"
+    }
+  ],
+  "about": "Write a short professional summary here. Mention your strongest skills, the type of work you are looking for, and the value you bring to a team or organization. Keep this paragraph concise so the CV remains one page.",
+  "skills": [
+    "Key skill one",
+    "Key skill two",
+    "Key skill three",
+    "Key skill four",
+    "Key skill five",
+    "Key skill six",
+    "Key skill seven",
+    "Key skill eight"
+  ],
+  "experience": [
+    {
+      "title": "Current or Most Recent Role",
+      "organization": "Organization Name",
+      "date": "Month Year-Present",
+      "bullets": [
+        "Describe your main responsibility or achievement.",
+        "Mention a project, tool, or workflow you contributed to.",
+        "Show the impact of your work using clear, specific language."
+      ]
+    },
+    {
+      "title": "Previous Role",
+      "organization": "Organization Name",
+      "date": "Month Year-Month Year",
+      "bullets": [
+        "Describe your responsibilities in this role.",
+        "Add a second bullet showing communication, teamwork, or technical skills.",
+        "Add a third bullet with a measurable result if available."
+      ]
+    },
+    {
+      "title": "Project or Internship Role",
+      "organization": "Organization Name",
+      "date": "Month Year-Month Year",
+      "bullets": [
+        "Summarize the project or internship focus.",
+        "Explain what you created, organized, researched, or improved.",
+        "Mention tools, audiences, or collaborators where relevant."
+      ]
+    },
+    {
+      "title": "Additional Role",
+      "organization": "Organization Name",
+      "date": "Month Year-Month Year",
+      "bullets": [
+        "Describe a responsibility that supports the role you want next.",
+        "Highlight transferable skills such as organization, research, or service.",
+        "Keep each bullet short enough to fit on one page."
+      ]
+    },
+    {
+      "title": "Earlier Role",
+      "organization": "Organization Name",
+      "date": "Month Year-Month Year",
+      "bullets": [
+        "Describe relevant work from an earlier position.",
+        "Show how you adapted to different audiences or tasks.",
+        "Mention research, coordination, service, or leadership if relevant."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degreeHtml": "Degree or Certification Title",
+      "school": "Institution Name",
+      "date": "Month Year-Month Year",
+      "bullets": [
+        "Add a short bullet about relevant coursework, research, or projects.",
+        "Add a second bullet showing skills or achievements from this program."
+      ]
+    },
+    {
+      "degreeHtml": "Second Degree or Training Program",
+      "school": "Institution Name",
+      "date": "Month Year-Month Year",
+      "bullets": [
+        "Add a bullet about relevant learning or practical experience.",
+        "Add a bullet about teamwork, communication, or field experience."
+      ]
+    }
+  ],
+  "languages": [
+    "Language one (level)",
+    "Language two (level)",
+    "Language three (level)",
+    "Language four (level)"
+  ]
+}
